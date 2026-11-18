@@ -1,0 +1,11 @@
+nom = str(input("Digite o seu nome: "))
+v = nom.upper()
+m = nom.lower()
+n = nom.strip()
+a = len(n)
+b = nom.split()
+c = len(b[0])
+
+print(v, m)
+print(c)
+print(a)
