@@ -1,0 +1,5 @@
+nom = str(input("Digiteo seu nome completo: ")).strip()
+n = nom.split()
+print("Primeiro:",n[0])
+print("Segundo:",n[1])
+print("Terceiro:",n[2])
