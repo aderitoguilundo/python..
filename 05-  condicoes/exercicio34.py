@@ -1,3 +1,4 @@
+print("-"*15)
 s = float(input("Qual é o seu salario? : "))
 
 if s > 1250:
